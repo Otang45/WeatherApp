@@ -1,0 +1,20 @@
+<navigation
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:id="@+id/drawer_nav_graph"
+	app:startDestination="@id/homeFragment">
+
+    <swipeable
+		android:id="@+id/homeFragment"
+		android:name="otang.weather.ui.fragment.HomeFragment"
+		android:label="HomeFragment"
+		tools:layout="@layout/home_fragment" />
+
+	<swipeable
+		android:id="@id/forecastFragment"
+		android:name="otang.weather.ui.fragment.ForecastFragment"
+		android:label="ForecastFragment"
+		tools:layout="@layout/forecast_fragment" />
+
+</navigation>

@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">Weather App</string>
+    <string name="error_title">An unexpected error occurred.\nSorry for the inconvenience.</string>
+	<string name="weather_api_key"></string>
+
+</resources>

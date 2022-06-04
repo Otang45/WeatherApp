@@ -1,0 +1,100 @@
+[
+  {
+    "artifactId": "appcompat",
+    "excludes": [],
+    "groupId": "androidx.appcompat",
+    "scope": "compile",
+    "versionName": "1.4.1"
+  },
+  {
+    "artifactId": "viewbinding",
+    "excludes": [],
+    "groupId": "androidx.databinding",
+    "scope": "compile",
+    "versionName": "7.2.0"
+  },
+  {
+    "artifactId": "palette",
+    "excludes": [],
+    "groupId": "androidx.palette",
+    "scope": "compile",
+    "versionName": "1.0.0"
+  },
+  {
+    "artifactId": "swiperefreshlayout",
+    "excludes": [],
+    "groupId": "androidx.swiperefreshlayout",
+    "scope": "compile",
+    "versionName": "1.1.0"
+  },
+  {
+    "artifactId": "lottie",
+    "excludes": [],
+    "groupId": "com.airbnb.android",
+    "scope": "compile",
+    "versionName": "5.0.3"
+  },
+  {
+    "artifactId": "fragula-core",
+    "excludes": [],
+    "groupId": "com.fragula2",
+    "scope": "compile",
+    "versionName": "2.3"
+  },
+	{
+    "artifactId": "ExpandableLayout",
+    "excludes": [],
+    "groupId": "com.github.cachapa",
+    "scope": "compile",
+    "versionName": "2.9.2"
+  },
+  {
+    "artifactId": "MPAndroidChart",
+    "excludes": [],
+    "groupId": "com.github.PhilJay",
+    "scope": "compile",
+    "versionName": "3.1.0"
+  },
+  {
+    "artifactId": "play-services-location",
+    "excludes": [],
+    "groupId": "com.google.android.gms",
+    "scope": "compile",
+    "versionName": "19.0.1"
+  },
+  {
+    "artifactId": "material",
+    "excludes": [],
+    "groupId": "com.google.android.material",
+    "scope": "compile",
+    "versionName": "1.6.0"
+  },
+  {
+    "artifactId": "gson",
+    "excludes": [],
+    "groupId": "com.google.code.gson",
+    "scope": "compile",
+    "versionName": "2.9.0"
+  },
+  {
+    "artifactId": "converter-gson",
+    "excludes": [],
+    "groupId": "com.squareup.retrofit2",
+    "scope": "compile",
+    "versionName": "2.9.0"
+  },
+  {
+    "artifactId": "retrofit",
+    "excludes": [],
+    "groupId": "com.squareup.retrofit2",
+    "scope": "compile",
+    "versionName": "2.9.0"
+  },
+  {
+    "artifactId": "easypermissions",
+    "excludes": [],
+    "groupId": "pub.devrel",
+    "scope": "compile",
+    "versionName": "3.0.0"
+  }
+]

@@ -1,0 +1,6 @@
+<resources>
+
+    <item name="forecastFragment" type="id"/>
+	<item name="homeFragment" type="id"/>
+
+</resources>

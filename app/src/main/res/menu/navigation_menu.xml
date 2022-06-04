@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/nav_menu_home"
+		android:icon="@drawable/ic_heart"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/nav_menu_forecast"
+        android:icon="@drawable/ic_heart"
+        android:title="Forecast" />
+
+    <item
+        android:id="@+id/nav_menu_more"
+		android:icon="@drawable/ic_heart"
+        android:title="More" />
+
+</menu>
